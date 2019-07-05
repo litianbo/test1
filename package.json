@@ -1,0 +1,27 @@
+{
+  "name": "@litianbo/test1",
+  "version": "1.0.0",
+  "description": "npm practice",
+  "main": "index.js",
+  "dependencies": {
+    "es6": "0.0.7",
+    "index": "^0.4.0",
+    "index.js": "0.0.3",
+    "test": "^0.6.0",
+    "test.js": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litianbo/test1.git"
+  },
+  "author": "tianboli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litianbo/test1/issues"
+  },
+  "homepage": "https://github.com/litianbo/test1#readme"
+}

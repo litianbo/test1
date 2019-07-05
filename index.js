@@ -1,5 +1,1 @@
-const printMsg = () => ({
-  console.log("This is a message from the demo package");
-});
-
-export default printMsg;
+'console.log('this is my first app');'
